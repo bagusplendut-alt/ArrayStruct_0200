@@ -26,4 +26,7 @@ int main(){
     cout << "Data Keempat = " << kamu[3] << endl;
     cout << "Data Kelima = " << kamu[4] << endl;
     cout << endl;
+
+    for (int i = 0; i <= 4; i++)
+    {
 }
