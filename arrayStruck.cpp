@@ -32,3 +32,11 @@ int main() {
     }
 
     for (int i = 0; i <= 2; i++)
+    {
+        cout << " Data Penduduk : " << endl;
+        cout << " Nama : " << mhs[i].nama << endl;
+        cout << " Nama : " << mhs[i].alamat.desa << endl;
+        cout << " Nama : " << mhs[i].alamat.kota << endl;
+        cout << " Nama : " << mhs[i].umur << endl;
+        cout << endl;
+    }
